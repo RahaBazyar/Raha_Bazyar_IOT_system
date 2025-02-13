@@ -1,5 +1,9 @@
 '''
+TASK 1
 
+TASK2
+
+TASK 3
 
 '''
 import numpy as np
