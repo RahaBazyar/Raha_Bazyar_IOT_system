@@ -3,7 +3,7 @@
 APM:
 Agar soali dashtid inja benevisid:
 
-
+salam vaght bekheir. man hameye tabe haro kamel neveshtam, lotfan molaheze befarmaid ke agar moshkeli vojood nadasht, link ro toy telegram khedmateton ersal konam
 
 '''
 import numpy as np
