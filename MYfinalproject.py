@@ -5,6 +5,13 @@ Agar soali dashtid inja benevisid:
 
 salam vaght bekheir. man hameye tabe haro kamel neveshtam, lotfan molaheze befarmaid ke agar moshkeli vojood nadasht, link ro toy telegram khedmateton ersal konam
 
+
+   APM:
+salam ye checke mojadad farmaeed
+shoma alan dota class Device neveshtid, dota class Sensor neveshtid hamchenin class sensor niaz b tabe haye volume up va down nadare
+hamchnin yeki az tabe haye admin panel dakhele class Device neveshtid
+   
+
 '''
 import numpy as np
 
@@ -139,6 +146,8 @@ class Device:
                    print(f'Data from {device.topic}: {device.read_data()}')
                else:
                    print("No devices found in this group of yours")
+
+
 ##task 3 -- volume up va volume down
 class Sensor:  
     def __init__(self, topic):  
