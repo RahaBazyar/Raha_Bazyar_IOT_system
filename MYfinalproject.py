@@ -14,7 +14,9 @@ hamchnin yeki az tabe haye admin panel dakhele class Device neveshtid
 
 
 check shdo besiar awli fght task3 ( yani dot atabeye ezafi ro anujam  nadade boodid)
+7 tabe az 12 tabveye momken ro neevshtid 
 
+moafagh bashid 
 '''
 import numpy as np
 
