@@ -10,7 +10,10 @@ salam vaght bekheir. man hameye tabe haro kamel neveshtam, lotfan molaheze befar
 salam ye checke mojadad farmaeed
 shoma alan dota class Device neveshtid, dota class Sensor neveshtid hamchenin class sensor niaz b tabe haye volume up va down nadare
 hamchnin yeki az tabe haye admin panel dakhele class Device neveshtid
-   
+
+
+
+check shdo besiar awli fght task3 ( yani dot atabeye ezafi ro anujam  nadade boodid)
 
 '''
 import numpy as np
